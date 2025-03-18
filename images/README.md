@@ -6,7 +6,7 @@ Welcome to the **WhiteDogs Telegram WebApp** landing page repository! This is a 
 
 ## 🚀 What is WhiteDogs?
 
-WhiteDogs is an interactive **Telegram WebApp** that brings together engaging features such as daily quizzes, a leaderboard system, fortune wheel rewards, task-based earnings, and much more. It’s designed to provide users with a gamified experience while rewarding them for their participation.
+WhiteDogs is an interactive [**Telegram WebApp**](https://t.me/real_whitedogsbot) that brings together engaging features such as daily quizzes, a leaderboard system, fortune wheel rewards, task-based earnings, and much more. It’s designed to provide users with a gamified experience while rewarding them for their participation.
 
 Our mission is to create an exciting and rewarding ecosystem where users can earn, play, and connect—all within Telegram!
 
