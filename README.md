@@ -11,7 +11,7 @@ WhiteDogs is an interactive **Telegram WebApp** that brings together engaging fe
 Our mission is to create an exciting and rewarding ecosystem where users can earn, play, and connect—all within Telegram!
 
 ---
-
+ 
 ## 🌟 Key Features
 
 ### 🏆 **Daily Quiz Challenges**
