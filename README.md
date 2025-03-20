@@ -1,6 +1,6 @@
 # WhiteDogs WebApp Landing Page
 
-Welcome to the **WhiteDogs Telegram WebApp** landing page repository! This is a public-facing page designed to introduce users to WhiteDogs and provide all the necessary information about our platform, its features, and how to get started.
+Welcome to the [**WhiteDogs Telegram WebApp**](https://t.me/real_whitedogsbot) landing page repository! This is a public-facing page designed to introduce users to WhiteDogs and provide all the necessary information about our platform, its features, and how to get started.
 
 ---
 
